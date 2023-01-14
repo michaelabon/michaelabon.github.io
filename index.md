@@ -12,4 +12,4 @@ It turns out that "engineering" problems are often just people problems in disgu
 
 This site is largely just notes to future me.
 If you're interested in them, that's great, too.
-[Hit me up on Twitter](https://twitter.com/MrMichaelAbon) if you want to talk about any of these.
+<a rel="me" href="https://hachyderm.io/@michaelabon">Hit me up on Mastodon</a> if you want to talk about any of these.
