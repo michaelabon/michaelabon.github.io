@@ -78,12 +78,12 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-feed
-  minima (~> 2.0)
+  minima
   tzinfo-data
   webrick (~> 1.8)
 
 RUBY VERSION
-   ruby 3.2.2p53
+   ruby 3.3.4p94
 
 BUNDLED WITH
-   2.4.20
+   2.5.16
