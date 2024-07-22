@@ -28,3 +28,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Required for local serving as of ruby 3+
 gem "webrick", "~> 1.8"
+
+gem "rake"
