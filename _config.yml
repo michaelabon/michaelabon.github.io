@@ -18,11 +18,18 @@ email: blog@michaelabon.ca
 description: > # this means to ignore newlines until "baseurl:"
   Largely just notes to future me.
   If you're interested in them, that's great, too.
-  Hit me up on Twitter if you want to talk about any of these.
+  Hit me up on Bluesky or Mastodon if you want to talk about any of these.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://blog.michaelabon.ca" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MrMichaelAbon
 github_username:  michaelabon
+bluesky:
+  -
+    username: michaelabon.ca
+    instance: bsky.app
+mastodon:
+  -
+    username: michaelabon
+    instance: hachyderm.io
 author: "Michael Abon (Mike Kenyon)"
 timezone: "America/Vancouver"
 
