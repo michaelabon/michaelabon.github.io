@@ -91,7 +91,7 @@ DEPENDENCIES
   webrick (~> 1.9)
 
 RUBY VERSION
-   ruby 3.4.3p32
+   ruby 3.4.5p51
 
 BUNDLED WITH
-   2.6.4
+   2.7.1
