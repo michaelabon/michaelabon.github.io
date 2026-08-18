@@ -29,4 +29,7 @@ gem 'tzinfo-data', platforms: [:windows]
 # Required for local serving as of ruby 3+
 gem "webrick", "~> 1.9"
 
+# No longer bundled with ruby as of ruby 4+
+gem "logger"
+
 gem "rake"
